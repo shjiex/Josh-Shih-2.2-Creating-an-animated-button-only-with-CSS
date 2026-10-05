@@ -11,12 +11,6 @@ Use this as the starter code to add CSS rules that will create the interaction s
 
 - When a user hovers on the first button, the color of the background and the text of the button should interchange, and the button should grow in size by 20%.
 - When the button is clicked (which you can't really see from the screencast/animation above), the button should turn upside down.
-- At the end of the HTML file, you should include a relatively short HTML comment (max 3–4 sentences) indicating if and how you used AI help for this homework. If you used AI, you should describe:
-  - Which portions were AI-generated (e.g., "I used Copilot to generate an initial ruleset for the button element")
-  - The prompts you used to generate this code (e.g., "Write a CSS ruleset that makes a button element grow by 20% in size.")
-  - Any modifications you made to the AI output (e.g., "The ruleset did not have rules for changing the colors - I added that")
-
-  If you did not use AI help, just write that you did not use AI help in the comment.
 
 ### Constraints
 
@@ -32,7 +26,7 @@ Use this as the starter code to add CSS rules that will create the interaction s
 ## How to submit
 
 1. Make sure that all of your work is self-contained in a single file (e.g., you should not rely on an external CSS file) and there is a comment describing AI help (as instructed earlier).
-2. Upload the HTML file to Canvas.
+2. Submit the GitHub repo url to Canvas and give accounts ShenzhiW, donghoon-io access to your repository.
 
 ---
 
