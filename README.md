@@ -26,7 +26,7 @@ Use this as the starter code to add CSS rules that will create the interaction s
 ## How to submit
 
 1. Make sure that all of your work is self-contained in a single file (e.g., you should not rely on an external CSS file) and there is a comment describing AI help (as instructed earlier).
-2. Submit the GitHub repo url to Canvas and give accounts ShenzhiW, donghoon-io access to your repository.
+2. Submit the GitHub repo url to Canvas and give accounts ShengzhiW, donghoon-io access to your repository.
 
 ---
 
