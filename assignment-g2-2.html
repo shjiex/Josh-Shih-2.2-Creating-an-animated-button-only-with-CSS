@@ -4,8 +4,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <title>A test page</title>
-    <!-- Note: In order to keep things simple for this assignment, I have used the 
-    style element below. The convention is to have the CSS in a separate file. -->
+    <!-- AI use: I used Claude (Claude Code) to review my CSS against the assignment
+    requirements and rubric, and to add this comment. -->
     <style>
         .site-button {
             background-color: purple;
@@ -13,6 +13,14 @@
             font-size: 150%;
             margin: 1em;
             padding: 0.5em;
+        }
+        .rotating-button:hover {
+            background-color: white;
+            color: purple;
+            scale: 1.2;
+        }
+        .rotating-button:active {
+            rotate: 180deg;
         }
     </style>
   </head>
@@ -23,7 +31,7 @@
         Click me!
     </button>
     <br>
-    <button class="site-button"">
+    <button class="site-button">
       A normal ordinary button.
     </button>
   </body>
